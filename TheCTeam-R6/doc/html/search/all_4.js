@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['eax_0',['eax',['../structcontext.html#a9f56948eecd65789e9d7707bca71432f',1,'context']]],
+  ['ebp_1',['ebp',['../structcontext.html#aa30811f6a7ab87869ff6f7a9409031e9',1,'context']]],
+  ['ebx_2',['ebx',['../structcontext.html#abf9ed160d662dff4f42d3696833e59a5',1,'context']]],
+  ['ecx_3',['ecx',['../structcontext.html#abedd82aa8af02c39feabb8c4bb9008d4',1,'context']]],
+  ['edi_4',['edi',['../structcontext.html#a14730336423b058f54ee8c237ad7e0b5',1,'context']]],
+  ['edx_5',['edx',['../structcontext.html#a837bcec48a910a691e8db5e52cc46333',1,'context']]],
+  ['eflags_6',['eflags',['../structcontext.html#a3f0c386ddf57a96d6e3484ad7804ae16',1,'context']]],
+  ['eip_7',['eip',['../structcontext.html#a49cb99f190e2bcfbff86b22b0c0802cc',1,'context']]],
+  ['enqueue_5fiocb_8',['enqueue_iocb',['../io__scheduler_8h.html#a13a5eba0fbdcdf1c285fed8118bad16e',1,'io_scheduler.h']]],
+  ['err_5finvalid_5foperation_9',['ERR_INVALID_OPERATION',['../io__scheduler_8h.html#a404cf74ecc961eff3cfe9d029029a98e',1,'io_scheduler.h']]],
+  ['err_5fmemory_5fallocation_10',['ERR_MEMORY_ALLOCATION',['../io__scheduler_8h.html#aca7500b4b721c5fd2f761f14acc49e3c',1,'io_scheduler.h']]],
+  ['es_11',['es',['../structcontext.html#ab7550890d872a73cc570ddf8aa5c5bc3',1,'context']]],
+  ['esi_12',['esi',['../structcontext.html#a5f232f16573e6c9265b49c981160a6f4',1,'context']]],
+  ['event_5fflag_13',['event_flag',['../structdcb.html#a0cfd22359ba6f9ec028b4109f9fa1651',1,'dcb']]],
+  ['exec_5fstate_14',['exec_state',['../structpcb.html#ae18a3584164d96e9637a128ede92b703',1,'pcb']]],
+  ['execute_5fcom_15',['execute_com',['../execute_com_8h.html#ab7aea778a0f030aaf3b1aaa2611c12ef',1,'executeCom.h']]],
+  ['executecom_2eh_16',['executeCom.h',['../execute_com_8h.html',1,'']]],
+  ['execution_5fstate_17',['execution_state',['../pcb_8h.html#aebcddb379496eb593a170d10ec9f119b',1,'pcb.h']]]
+];

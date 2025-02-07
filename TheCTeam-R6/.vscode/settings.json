@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "pcb.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "makefile.configureOnOpen": false
+}

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['idt_5finit_0',['idt_init',['../interrupts_8h.html#a164d38a0163ec2c36993b803b8c7fdcb',1,'interrupts.h']]],
+  ['idt_5finstall_1',['idt_install',['../interrupts_8h.html#a152d9a7b01e655898a365af9b0134932',1,'interrupts.h']]],
+  ['inb_2',['inb',['../io_8h.html#ad6488a48837d179b1833e2f48dac9665',1,'io.h']]],
+  ['initial_5fcontext_3',['initial_context',['../sys__call_8h.html#aa0ee3f1b225555eb3309d346749c7e68',1,'sys_call.h']]],
+  ['initialize_5fcontext_4',['initialize_context',['../load__r3_8h.html#a5aadfa787ceeab91c804e8f14b8e6573',1,'load_r3.h']]],
+  ['initialize_5fheap_5',['initialize_heap',['../mem__lib_8h.html#a458554f10123bdb975dee05b824786ae',1,'mem_lib.h']]],
+  ['input_5fbuffer_6',['input_buffer',['../structdcb.html#a40dd0565024e40ca41b6ad9f39811552',1,'dcb']]],
+  ['input_5fsize_7',['input_size',['../structdcb.html#a6c89a09d49c499b4077b957442170318',1,'dcb']]],
+  ['interrupts_2eh_8',['interrupts.h',['../interrupts_8h.html',1,'']]],
+  ['io_2eh_9',['io.h',['../io_8h.html',1,'']]],
+  ['io_5fscheduler_10',['io_scheduler',['../io__scheduler_8h.html#a4e7294ec9532f20f894453704b1fde24',1,'io_scheduler.h']]],
+  ['io_5fscheduler_2eh_11',['io_scheduler.h',['../io__scheduler_8h.html',1,'']]],
+  ['iocb_12',['iocb',['../structiocb.html',1,'iocb'],['../io__scheduler_8h.html#aa35e18b1f482eadaaa3a5186223ea2f2',1,'iocb:&#160;io_scheduler.h']]],
+  ['iocb_5ffree_13',['iocb_free',['../io__scheduler_8h.html#a2c6f88f284bfd47aae8d36323a3b5363',1,'io_scheduler.h']]],
+  ['iocb_5fqueue_5fhead_14',['iocb_queue_head',['../structdcb.html#aed0ec2bd9f7a9041d013dc27f2e5b6b4',1,'dcb']]],
+  ['iocb_5fqueue_5ftail_15',['iocb_queue_tail',['../structdcb.html#aeb46cc8cb92c13ad9b7c2b8ab809cb9c',1,'dcb']]],
+  ['irq_5finit_16',['irq_init',['../interrupts_8h.html#a4f77024da33605c6d49c12845b5dcbb6',1,'interrupts.h']]],
+  ['isspace_17',['isspace',['../ctype_8h.html#a56be4166e4673843042a548a7f513dbc',1,'ctype.h']]],
+  ['isvalidclass_18',['isValidClass',['../pcb_user_8h.html#a339ca4ea9ca1d707e28ebe27f86c798e',1,'pcbUser.h']]],
+  ['isvalidname_19',['isValidName',['../pcb_user_8h.html#ad7be6da87760186deb8b0389f744a983',1,'pcbUser.h']]],
+  ['isvalidpriority_20',['isValidPriority',['../pcb_user_8h.html#ab7b908cfe5d124c7eb282cf4c510c95c',1,'pcbUser.h']]],
+  ['itoa_21',['itoa',['../string_8h.html#aac3cbedccc2323b43d5d6ea0f217538e',1,'string.h']]]
+];

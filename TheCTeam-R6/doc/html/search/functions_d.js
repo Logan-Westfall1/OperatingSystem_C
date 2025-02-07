@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['serial_5finit_0',['serial_init',['../serial_8h.html#a59d1db7894c07b31b520be0ae0a32896',1,'serial.h']]],
+  ['serial_5fout_1',['serial_out',['../serial_8h.html#a7e049d65b09969503d73dd367775d0f6',1,'serial.h']]],
+  ['serial_5fpoll_2',['serial_poll',['../serial_8h.html#a1e9204d031fa281b2983b1e97859c179',1,'serial.h']]],
+  ['set_5fdate_3',['set_date',['../date_8h.html#abfb5d20a3a066d03a0a9050a552478b5',1,'date.h']]],
+  ['setpcbpriority_4',['setPCBPriority',['../pcb_user_8h.html#ab569919e9fb70af6c904b799277f57b8',1,'pcbUser.h']]],
+  ['show_5fallocated_5fmemory_5',['show_allocated_memory',['../mem_user_8h.html#a66959eac8198aa602e4824e41f4ab14d',1,'memUser.h']]],
+  ['show_5ffree_5fmemory_6',['show_free_memory',['../mem_user_8h.html#a1e1e11f62525be23cfd2ed545e600a1d',1,'memUser.h']]],
+  ['showall_7',['showAll',['../pcb_user_8h.html#a14aec97a8b7a7d1143007cd09c9a2ee9',1,'pcbUser.h']]],
+  ['showblocked_8',['showBlocked',['../pcb_user_8h.html#aceabaa555d612f592d7e6a120a095648',1,'pcbUser.h']]],
+  ['showpcb_9',['showPCB',['../pcb_user_8h.html#a370521e1e1dd5edfc9902c6edfe92d01',1,'pcbUser.h']]],
+  ['showready_10',['showReady',['../pcb_user_8h.html#ac968cb464992fcff3bfc0f333dbb7aa4',1,'pcbUser.h']]],
+  ['shutdown_5finit_11',['shutdown_init',['../com_library_8h.html#a3cc7b2607b87c42e3b3ad2c6408b84e0',1,'comLibrary.h']]],
+  ['strcat_12',['strcat',['../string_8h.html#aacf2ccc28a5bd21afaa42ee19020e608',1,'string.h']]],
+  ['strcmp_13',['strcmp',['../string_8h.html#a11bd144d7d44914099a3aeddf1c8567d',1,'string.h']]],
+  ['strlen_14',['strlen',['../string_8h.html#aa383452fe445bfae989358c9d7d96f4f',1,'string.h']]],
+  ['strncpy_15',['strncpy',['../string_8h.html#a6e4e4c76574fe3769a440f52fb807c3d',1,'string.h']]],
+  ['strtok_16',['strtok',['../string_8h.html#ae8e613ef4bfd16a5568e1a059f9558a8',1,'string.h']]],
+  ['suspendpcb_17',['suspendPCB',['../pcb_user_8h.html#a2581c56ed7e3d09561cb89e2862c1ab4',1,'pcbUser.h']]],
+  ['sys_5falloc_5fmem_18',['sys_alloc_mem',['../memory_8h.html#a632e7244d1a934b8df4d07db93e956fd',1,'memory.h']]],
+  ['sys_5fcall_19',['sys_call',['../sys__call_8h.html#a66b2fb0001c0dbfa20fd39021d77e327',1,'sys_call.h']]],
+  ['sys_5ffree_5fmem_20',['sys_free_mem',['../memory_8h.html#a950663d39dbb073c9dff9cf3b5d3392c',1,'memory.h']]],
+  ['sys_5fidle_5fprocess_21',['sys_idle_process',['../processes_8h.html#aacd3fe93c6c875e45b891534368d4840',1,'processes.h']]],
+  ['sys_5freq_22',['sys_req',['../sys__req_8h.html#a0826d3da32611e0fc48b5d9cbe6c6e26',1,'sys_req.h']]],
+  ['sys_5fset_5fheap_5ffunctions_23',['sys_set_heap_functions',['../memory_8h.html#a462db3a1d9c70195e513b21680b6a013',1,'memory.h']]]
+];
