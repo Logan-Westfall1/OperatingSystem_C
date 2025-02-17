@@ -5,11 +5,11 @@ This is a fully functional MPX Operating System Programmed in C in a group with 
 ![terminal operating system GIF](https://github.com/user-attachments/assets/902cb561-d66b-4682-9847-40d03ef84fcf)
 
 
-#Description
+# Description
 
 This operating system is a Unix based operating system reading a text based user input in a custom made command system. The Operating System, titled "The C Team" started out polling based and could perform operations such as process management, context switching, dynamic memory management, and has robust input validation and error messaging. The final change made to the operating system is a switch from Polling based I/O to interrupt driven I/O through the use of an interrupt service routine. The main uses of the operating system is being able to create alarms, set and get the date, create and delete processes, and checking memory allocation for error handling.
 
-#Usage
+# Usage
 
 To launch the OS follow the following steps:
 
@@ -31,6 +31,7 @@ To launch the OS follow the following steps:
     
     3. Download the R6 Tag (or previous tags for previous versions / iterations) and run the program in your IDE of choice.
 
-#Authors
+# Authors
+
   Logan Westfall, Jacob Bock, Evan Anderson, Brenden Bolduck
 
