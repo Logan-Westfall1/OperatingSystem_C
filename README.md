@@ -2,7 +2,8 @@
 
 This is a fully functional MPX Operating System Programmed in C in a group with 3 other students.
 
-![](https://giphy.com/explore/operating-system) 
+![terminal operating system GIF](https://github.com/user-attachments/assets/902cb561-d66b-4682-9847-40d03ef84fcf)
+
 
 #Description
 
@@ -13,14 +14,21 @@ This operating system is a Unix based operating system reading a text based user
 To launch the OS follow the following steps:
 
   Windows:
+  
     1. Download Windows Subsystem for Linux: wsl --install -d ubuntu
+    
     2. Update and download Qemu and GDB for Debugging: sudo apt update
+    
                                                      : sudo apt install -y clang make nasm git binutils-i686-linux-gnu qemu-system-x86 gdb
+                                                     
     3. Download the R6 Tag (or previous tags for previous versions / iterations) and run the program in your IDE of choice.
 
-  Mac:
-    1. Download Homebrew: ![](https://brew.sh)
+  Mac
+  
+    1. Download Homebrew: https://brew.sh
+    
     2. Install GDB: brew install nasm qemu i686-elf-binutils i386-elf-gdb
+    
     3. Download the R6 Tag (or previous tags for previous versions / iterations) and run the program in your IDE of choice.
 
 #Authors
